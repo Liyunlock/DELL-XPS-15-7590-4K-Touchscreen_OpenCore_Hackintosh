@@ -1,6 +1,6 @@
  ## XPS 15 7590 4K Touchscreen Opencore Hackintosh
 
- English/[中文](README-CN.md)
+ English/[中文](README-TW.md)
 
  **OpenCore Version** : [0.5.8](https://github.com/acidanthera/OpenCorePkg/releases)
 
