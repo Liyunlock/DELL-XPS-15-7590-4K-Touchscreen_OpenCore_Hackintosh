@@ -17,6 +17,11 @@
  | SSD                    | KXG60ZNV1T02 NVMe TOSHIBA 1024GB                             |
  | Audio                  | Realtek ALC298                                               |
  | Wireless               | DELL DW1820A BCM94350ZAE or LENOVO DW1560 BCM94352Z (Replace)|
+ ### User experience
+ * Ultra power saving.
+ * Almost no reduction in battery during sleep.
+ * When using battery can keep its temperature low.
+ 
  ### Working
 
  * iGPU：working.
