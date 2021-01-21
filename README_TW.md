@@ -4,7 +4,9 @@
 
  **OpenCore 版本** : [0.5.8](https://github.com/acidanthera/OpenCorePkg/releases)
 
- **macOS 版本** : macOS Catalina 10.15.3(19D76) ～ macOS Catalina 10.15.5(19F101)
+ **macOS 版本** : macOS Big Sur 11.0 - macOS Big Sur 11.1(20C69)
+ 
+ ~~**macOS 版本** : macOS Catalina 10.15.3(19D76) ～ macOS Catalina 10.15.5(19F101)~~
 
  ### 經過測試的硬體配置
 
