@@ -6,7 +6,7 @@
 
 **macOS Version** : macOS Big Sur 11.0 - macOS Big Sur 11.1(20C69)
 
-**~~macOS Version** : macOS Catalina 10.15.3(19D76) - macOS Catalina 10.15.5(19F101)
+**~~macOS Version** : macOS Catalina 10.15.3(19D76) - macOS Catalina 10.15.5(19F101)~~
 
  ### Tested hardware configuration
 
