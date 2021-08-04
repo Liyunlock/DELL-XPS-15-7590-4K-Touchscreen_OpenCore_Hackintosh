@@ -2,9 +2,11 @@
 
  English/[中文](README_TW.md)
 
- **OpenCore Version** : [0.5.8](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [0.7.2](https://github.com/acidanthera/OpenCorePkg/releases)
 
-**macOS Version** : macOS Big Sur 11.0 - macOS Big Sur 11.1(20C69)
+**macOS Version** : macOS Big Sur 11.1 - macOS Big Sur 11.5.1(20G80)
+
+~~**macOS Version** : macOS Big Sur 11.0 - macOS Big Sur 11.1(20C69)~~
 
 ~~**macOS Version** : macOS Catalina 10.15.3(19D76) - macOS Catalina 10.15.5(19F101)~~
 
@@ -19,6 +21,9 @@
  | SSD                    | KXG60ZNV1T02 NVMe TOSHIBA 1024GB                             |
  | Audio                  | Realtek ALC298                                               |
  | Wireless               | DELL DW1820A BCM94350ZAE or LENOVO DW1560 BCM94352Z (Replace)|
+ ### Fix content
+  *Fixed the HDMI port can't hot plug and HDMI Audio output.
+ 
  ### User experience
  * Ultra power saving.
  * Almost no reduction in battery during sleep.
