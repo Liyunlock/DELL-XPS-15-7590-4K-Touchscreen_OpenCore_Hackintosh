@@ -21,6 +21,7 @@
  | SSD                    | KXG60ZNV1T02 NVMe TOSHIBA 1024GB                             |
  | Audio                  | Realtek ALC298                                               |
  | Wireless               | DELL DW1820A BCM94350ZAE or LENOVO DW1560 BCM94352Z (Replace)|
+ 
  ### Fix content
   *Fixed the HDMI port can't hot plug and HDMI Audio output.
  
@@ -37,19 +38,19 @@
  * Audio：spkear & mic working.
  * Camera：working.
  * Input：keyboard & touchpad working.
- * HDMI Port：cold-plug working，hotplug half-working.
+ * HDMI Port：working.
  * USB port：Type-A port x 2 (Max 5 Gbps) and Type-C port x 1 (Max 10 Gbps)
  * Brightness Controll：working.
  * Sleep/Wake：working.
  * SDCard Reader：not working.
  * Fingerprint：not working.
 
- ### Known Problem
+ ~~### Known Problem
 
-. HDMI hot-plug 
-   * Problem
+ ~~HDMI hot-plug 
+   ~* Problem
      * After booting, the external screen is connected for the first time, and the output is displayed normally. After unplugging and reconnecting, the screen is completely black and only the mouse is displayed.
-   * Workaround
+   ~* Workaround
      * Open the built-in screen cover for 1 second and then open, you will see the external screen display output normally.
  ### Waiting Test
 
