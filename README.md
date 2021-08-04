@@ -45,13 +45,6 @@
  * SDCard Reader：not working.
  * Fingerprint：not working.
 
- ~~### Known Problem
-
- ~~HDMI hot-plug 
-   ~* Problem
-     * After booting, the external screen is connected for the first time, and the output is displayed normally. After unplugging and reconnecting, the screen is completely black and only the mouse is displayed.
-   ~* Workaround
-     * Open the built-in screen cover for 1 second and then open, you will see the external screen display output normally.
  ### Waiting Test
 
  1. USB Type-C with external monitor
