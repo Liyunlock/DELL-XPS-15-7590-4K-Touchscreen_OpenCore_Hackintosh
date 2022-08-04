@@ -4,7 +4,9 @@
 
 **OpenCore Version** : [0.8.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
-**macOS Version** : macOS Big Sur 11.1 - macOS Big Sur 11.5.1(20G80)
+**macOS 版本** : macOS Big Sur 11.1 - macOS Big Sur 11.6.7（20G630）
+
+~~**macOS Version** : macOS Big Sur 11.1 - macOS Big Sur 11.5.1(20G80)~~
 
 ~~**macOS Version** : macOS Big Sur 11.0 - macOS Big Sur 11.1(20C69)~~
 
