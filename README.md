@@ -2,7 +2,7 @@
 
  English/[中文](README_TW.md)
 
-**OpenCore Version** : [0.7.2](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [0.8.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
 **macOS Version** : macOS Big Sur 11.1 - macOS Big Sur 11.5.1(20G80)
 
