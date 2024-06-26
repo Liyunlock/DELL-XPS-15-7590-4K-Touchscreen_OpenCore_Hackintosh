@@ -1,4 +1,5 @@
- ## XPS 15 7590 4K 觸摸屏 Opencore 黑蘋果
+ ## XPS 15 7590 4K 觸摸屏 Opencore 黑蘋果 (停止更新)
+ ## 由於我的XPS 15受潮損壞正在維修，如果維修完成就會恢復更新。
 
  中文/[English](README.md)
 
