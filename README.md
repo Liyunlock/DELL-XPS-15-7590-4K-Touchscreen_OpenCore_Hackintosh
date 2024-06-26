@@ -1,4 +1,6 @@
- ## XPS 15 7590 4K Touchscreen Opencore Hackintosh
+ ## XPS 15 7590 4K Touchscreen Opencore Hackintosh (STOP UPDATING)
+
+ ## As my XPS 15 is being repaired due to moisture damage, the update will be resumed if the repairs are completed.
 
  English/[中文](README_TW.md)
 
